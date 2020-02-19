@@ -1,4 +1,6 @@
-import * as THREE from 'three';
+// import * as THREE from 'three';
+const THREE = require("three");
+// import * as THREE from 'three.module.js';
 class InitScene {
     public container: any | undefined
     private scene: any | undefined
